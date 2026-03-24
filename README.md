@@ -1,15 +1,15 @@
 # Hi 👋 I'm Muhammad Zeeshan Sarwar
 
-**🚀 Junior DevOps Engineer | System Administrator | [cite_start]BS Psychology (1st Semester)** [cite: 85, 110]
+**🚀 Junior DevOps Engineer | System Administrator | BS Psychology (1st Semester)**
 
-I specialize in building automated CI/CD pipelines, Infrastructure as Code (IaC), and deploying multi-container applications on AWS. [cite_start]I am bridging the gap between development and production through high-level automation and robust cloud infrastructure[cite: 4, 5].
+I specialize in building automated CI/CD pipelines, Infrastructure as Code (IaC), and deploying multi-container applications on AWS. I am bridging the gap between development and production through high-level automation and robust cloud infrastructure.
 
 ### 🧑‍💻 About Me
 * 💻 **3+ years experience** in IT Support & System Administration.
 * ☁️ **Cloud Specialist:** Provisioning AWS infrastructure (EC2, S3, VPC) using Terraform.
-* [cite_start]🔧 **Automation Pro:** Building end-to-end CI/CD pipelines with GitLab CI/CD and Ansible[cite: 10, 11].
-* [cite_start]🐳 **Containerization:** Orchestrating multi-tier apps using Docker Compose[cite: 12].
-* 🐧 **Linux Expert:** Advanced Ubuntu server management and security hardening[cite: 13, 14, 20].
+* 🔧 **Automation Pro:** Building end-to-end CI/CD pipelines with GitLab CI/CD and Ansible.
+* 🐳 **Containerization:** Orchestrating multi-tier apps using Docker Compose.
+* 🐧 **Linux Expert:** Advanced Ubuntu server management and security hardening.
 
 ---
 
@@ -36,16 +36,16 @@ I specialize in building automated CI/CD pipelines, Infrastructure as Code (IaC)
 
 ### 🚀 Featured DevOps Projects
 
-**🔹 Multi-Tier Automated Deployment Pipeline (The Mega Project)** [cite: 73]
+**🔹 Multi-Tier Automated Deployment Pipeline (The Mega Project)**
 A production-ready pipeline that automates the entire lifecycle of a multi-container app.
-* [cite_start]**Infrastructure:** Provisioned AWS EC2 & S3 using **Terraform** (Remote State Management)[cite: 30, 73].
-* [cite_start]**Configuration:** Used **Ansible** for automated dependency installation and server hardening[cite: 38].
-* **Orchestration:** Deployed React Frontend + MongoDB + Mongo-Express using **Docker Compose**[cite: 34].
-* [cite_start]**CI/CD:** Fully automated GitLab pipeline with build, deploy, and infrastructure teardown stages[cite: 43].
+* **Infrastructure:** Provisioned AWS EC2 & S3 using **Terraform** (Remote State Management).
+* **Configuration:** Used **Ansible** for automated dependency installation and server hardening.
+* **Orchestration:** Deployed React Frontend + MongoDB + Mongo-Express using **Docker Compose**.
+* **CI/CD:** Fully automated GitLab pipeline with build, deploy, and infrastructure teardown stages.
 
-[cite_start]**🔹 Hybrid CI/CD React Deployment (GitLab)** [cite: 24]
+**🔹 Hybrid CI/CD React Deployment (GitLab)**
 * **Architecture:** Utilized EC2 Self-Hosted Runners for secure, local-like deployment speed.
-* [cite_start]**Automation:** Automated artifact generation and Nginx reverse proxy configuration[cite: 45].
+* **Automation:** Automated artifact generation and Nginx reverse proxy configuration.
 
 ---
 
