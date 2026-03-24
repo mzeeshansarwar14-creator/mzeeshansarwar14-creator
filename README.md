@@ -5,7 +5,7 @@
 I specialize in building automated CI/CD pipelines, Infrastructure as Code (IaC), and deploying multi-container applications on AWS. [cite_start]I am bridging the gap between development and production through high-level automation and robust cloud infrastructure[cite: 4, 5].
 
 ### 🧑‍💻 About Me
-* [cite_start]💻 **3+ years experience** in IT Support & System Administration[cite: 6].
+* 💻 **3+ years experience** in IT Support & System Administration.
 * ☁️ **Cloud Specialist:** Provisioning AWS infrastructure (EC2, S3, VPC) using Terraform.
 * [cite_start]🔧 **Automation Pro:** Building end-to-end CI/CD pipelines with GitLab CI/CD and Ansible[cite: 10, 11].
 * [cite_start]🐳 **Containerization:** Orchestrating multi-tier apps using Docker Compose[cite: 12].
