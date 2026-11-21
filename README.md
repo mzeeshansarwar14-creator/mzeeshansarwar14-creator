@@ -1,6 +1,6 @@
 # Hi 👋 I'm Muhammad Zeeshan Sarwar
 
-**🚀 Junior DevOps Engineer | System Administrator | BS Psychology (1st Semester)**
+**🚀 Junior DevOps Engineer | System Administrator **
 
 I specialize in building automated CI/CD pipelines, Infrastructure as Code (IaC), and deploying multi-container applications on AWS. I am bridging the gap between development and production through high-level automation and robust cloud infrastructure.
 
