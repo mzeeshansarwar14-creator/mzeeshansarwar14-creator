@@ -2,14 +2,14 @@
 
 **🚀 DevOps Engineer | CI/CD, AWS, Terraform, Docker & Kubernetes**
 
-DevOps engineer focused on automating the path from commit to running infrastructure across CI/CD pipelines, Infrastructure as Code, containers, Linux servers, and observability. Backed by 3+ years of hands-on infrastructure, system administration, and networking experience, plus AZ-900 and CCNA certifications.
+DevOps engineer focused on automating the path from commit to running infrastructure across CI/CD pipelines, Infrastructure as Code, containers, and Linux servers. Backed by 3+ years of hands-on infrastructure, system administration, and networking experience, plus AZ-900 and CCNA certifications.
 
 ### 🧑‍💻 About Me
 - 💻 **3+ years** in Linux/Windows Server administration, networking, firewalls, and IT support.
 - ☁️ **Cloud & IaC:** Provisioning AWS infrastructure (EC2, VPC, Security Groups) with **Terraform** and configuring hosts with **Ansible**.
 - 🔁 **CI/CD Pipelines:** Building multi-stage automation in **GitLab CI/CD** and **GitHub Actions** with container registries, artifacts, and manual approval gates.
 - 🐳 **Containers & K3s:** Deploying multi-container stacks and Kubernetes workloads with **Docker**, **Docker Compose**, and **K3s** on Ubuntu.
-- 📊 **Observability & Recovery:** Instrumenting Ubuntu servers with **Grafana Alloy**, **Prometheus**, and **Grafana Cloud**, and recovering servers from full-disk outages.
+- 🐧 **Linux & Troubleshooting:** Managing Ubuntu servers, services, and system health, including recovering servers from full-disk outages.
 
 ---
 
@@ -25,12 +25,10 @@ DevOps engineer focused on automating the path from commit to running infrastruc
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-**Containers, Monitoring & Servers**
+**Containers & Servers**
 <p>
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   <img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
@@ -50,9 +48,8 @@ DevOps engineer focused on automating the path from commit to running infrastruc
 - **Configuration & Stack:** **Ansible** installs Docker and Compose and ships config to the host to run a three-service stack (**React**, **MongoDB**, **Mongo-Express**) with persistent volumes across redeploys.
 - **Troubleshooting:** Resolved real deployment issues including Docker port conflicts and Terraform dependency errors.
 
-**🔹 Server Monitoring & Production Incident Recovery**
-- **Observability:** Instrumented Ubuntu servers with **Grafana Alloy** to ship **Prometheus** metrics and system logs to **Grafana Cloud**, keeping agents running via `systemd`.
-- **Incident Recovery:** Diagnosed (`journalctl`, `systemctl`, `du`, `df`) and resolved 100% disk utilization outages by pruning Docker build cache, resizing swap, and scheduling log rotation.
+**🔹 Linux Server Maintenance & Disk Incident Recovery**
+- **Incident Recovery:** Diagnosed (`journalctl`, `systemctl`, `du`, `df`) and resolved 100% disk utilization issues on Ubuntu servers by pruning Docker build cache, resizing swap, and scheduling log rotation.
 
 **🔹 Zero-Touch Deployment for a React Application**
 - **Automation:** **GitHub Actions** workflow that builds and deploys a React app to Ubuntu on **AWS EC2** on every push to `main`, served via **Apache** without manual steps.
